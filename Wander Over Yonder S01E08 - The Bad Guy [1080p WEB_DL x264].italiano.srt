@@ -1,0 +1,728 @@
+﻿1
+00:00:06,480 --> 00:00:07,590
+♪ Yip bi di dit bip
+bi-ee-i-di-dit ♪
+
+2
+00:00:07,590 --> 00:00:09,110
+♪ Wander over Yonder
+
+3
+00:00:09,110 --> 00:00:10,260
+♪ Yip bi di dit bip
+bi-ee-i-di-dit ♪
+
+4
+00:00:10,260 --> 00:00:11,890
+♪ Wander over Yonder
+
+5
+00:00:11,890 --> 00:00:13,790
+♪ Wander, Wander, over, over
+Yonder, Yonder ♪
+
+6
+00:00:13,790 --> 00:00:14,410
+♪ Wander Yonder
+
+7
+00:00:14,410 --> 00:00:15,930
+♪ Yip bi di dit bip
+bi-ee-i-di-dit ♪
+
+8
+00:00:15,930 --> 00:00:17,080
+♪ Wander over Yonder
+
+9
+00:00:17,080 --> 00:00:18,230
+♪ Yip bi di dit bip
+bi-ee-i-di-dit ♪
+
+10
+00:00:18,230 --> 00:00:19,790
+♪ Wander over Yonder
+
+11
+00:00:19,790 --> 00:00:21,080
+♪ Yip bi di dit bip
+bi-ee-i-di-dit ♪
+
+12
+00:00:21,080 --> 00:00:22,200
+♪ Wander over Yonder
+
+13
+00:00:22,200 --> 00:00:24,370
+♪ Wander, Wander, over, over
+Yonder, Yonder ♪
+
+14
+00:00:24,370 --> 00:00:25,210
+♪ Yonder Wander
+
+15
+00:00:25,210 --> 00:00:26,460
+♪ Yip bi di dit bip
+bi-ee-i-di-dit ♪
+
+16
+00:00:26,460 --> 00:00:27,270
+♪ Wander over Yonder
+
+17
+00:00:35,590 --> 00:00:36,680
+♪ Yip bi di dit bip
+bi-ee-i-di-dit ♪
+
+18
+00:00:36,680 --> 00:00:38,300
+♪ Wander over Yonder
+
+19
+00:00:38,300 --> 00:00:39,720
+♪ Yip bi di dit bip
+bi-ee-i-di-dit ♪
+
+20
+00:00:39,720 --> 00:00:40,720
+♪ Wander over Yonder
+
+21
+00:00:40,720 --> 00:00:43,020
+♪ Wander, Wander, over, over
+Yonder, Yonder ♪
+
+22
+00:00:43,020 --> 00:00:43,730
+♪ Wander Yonder
+
+23
+00:00:43,730 --> 00:00:44,720
+♪ Yip bi di dit bip
+bi-ee-i-di-dit ♪
+
+24
+00:00:44,720 --> 00:00:45,960
+♪ Wander over Yonder
+
+25
+00:00:47,650 --> 00:00:50,900
+Traduzione di Davide Mulas, sottotitoli di Filippo Dore per la pagina Subtoon.
+
+26
+00:00:52,532 --> 00:00:55,888
+Non dire nulla. Scorciatoia attraverso un campo di asteroidi..
+
+27
+00:00:55,890 --> 00:00:57,704
+..non la migliore delle idee.
+
+28
+00:00:57,704 --> 00:00:58,747
+Andrà tutto bene!
+
+29
+00:00:59,915 --> 00:01:01,693
+Ci basta non restare a corto di...
+
+30
+00:01:04,377 --> 00:01:05,378
+..succo di orrble.
+
+31
+00:01:05,795 --> 00:01:07,926
+AAAAAH!
+AAAAH!
+
+32
+00:01:07,926 --> 00:01:08,632
+Ouch!
+
+33
+00:01:09,508 --> 00:01:10,525
+Ow ow ow!
+
+34
+00:01:12,844 --> 00:01:14,471
+Siamo completamente a secco?
+
+35
+00:01:14,471 --> 00:01:17,974
+Ma non preoccuparti! Guarda,
+c'è una ridente cittadina laggiù!
+
+36
+00:01:21,019 --> 00:01:25,440
+Scommetto che sapranno rimediarci
+un po' di succo di orrble. Vado a chiedergli una mano.
+
+37
+00:01:26,149 --> 00:01:28,235
+Wander! Non sai che posto è quello?
+
+38
+00:01:28,235 --> 00:01:32,301
+Siamo a Doomstone! Il peggior covo
+di feccia e di malvagità in tutta la galassia!
+
+39
+00:01:32,301 --> 00:01:36,372
+Non puoi entrare tranquillo lì e chiedere gentilmente
+del succo di orrble! Ti faranno a pezzi!
+
+40
+00:01:36,493 --> 00:01:38,828
+E se chiedo <i>molto</i> gentilmente?
+
+41
+00:01:39,120 --> 00:01:43,041
+Nonono, se dobbiamo entrare lì,
+devi fare esattamente l'opposto.
+
+42
+00:01:43,333 --> 00:01:45,919
+Devi comportarti da duro, brutto e cattivo!
+
+43
+00:01:46,057 --> 00:01:48,171
+Devi proprio comportarti da cattivone!
+
+44
+00:01:48,588 --> 00:01:49,464
+Cattivone?
+
+45
+00:01:52,008 --> 00:01:52,509
+Capito!
+
+46
+00:01:52,898 --> 00:01:54,219
+No problem!
+
+47
+00:01:59,307 --> 00:02:02,310
+<b>IL CATTIVONE</b>
+
+48
+00:02:06,064 --> 00:02:07,171
+Stai mica..
+
+49
+00:02:07,520 --> 00:02:09,285
+..stai mica imitando un dinosauro?
+
+50
+00:02:09,359 --> 00:02:09,985
+Un pochino.
+
+51
+00:02:10,318 --> 00:02:11,528
+Oh, siamo spacciati.
+
+52
+00:02:31,506 --> 00:02:34,923
+Oh. Ok, vado a cercare il barista
+per procurarci un po' di succo.
+
+53
+00:02:35,218 --> 00:02:37,138
+Ricorda sempre: grrrr!
+
+54
+00:02:45,492 --> 00:02:48,033
+Quello è il mio posto, microbo.
+
+55
+00:02:48,398 --> 00:02:49,524
+Oh, sono desolato...
+
+56
+00:02:49,788 --> 00:02:52,188
+Volevo dire, trovatene un altro!
+
+57
+00:02:57,296 --> 00:02:59,978
+Sai chi sono io?
+
+58
+00:03:00,347 --> 00:03:03,048
+E <i>tu</i> sai chi sono  <i>io</i>?
+
+59
+00:03:04,691 --> 00:03:06,785
+Sono un ricercato!
+
+60
+00:03:07,451 --> 00:03:13,590
+Dieci milioni di ricompensa per la cattura
+di Dan il Selvaggio, il più cattivo in circolazione!
+
+61
+00:03:17,890 --> 00:03:23,605
+<i>Io</i> sono un ricercato! Dieci milioni e uno
+per la cattura di Wild Wooly Wander!
+
+62
+00:03:23,617 --> 00:03:26,728
+Il criminale più malvagio di questo fetido universo!
+
+63
+00:03:33,656 --> 00:03:34,472
+Dunque..
+
+64
+00:03:34,484 --> 00:03:35,862
+Nessuna idea su dove..
+
+65
+00:03:36,071 --> 00:03:40,825
+..una colpevole di generici atti spiacevoli come me
+possa ottenere del..
+
+66
+00:03:41,201 --> 00:03:42,494
+..succo di orrble?
+
+67
+00:03:42,661 --> 00:03:47,248
+Beh, io non ne ho, ma..
+
+68
+00:03:52,221 --> 00:03:54,777
+..c'è qualcuno che..
+
+69
+00:03:54,964 --> 00:03:57,008
+..<i>potrebbe</i> averne...
+
+70
+00:03:59,719 --> 00:04:03,755
+Si chiama Papa Apocalisse. Questo è l'indirizzo con
+le indicazioni per arrivarci, divertitevi.
+
+71
+00:04:05,063 --> 00:04:07,705
+Ma.. qual è la fregatura?
+Dev'esserci una fregatura, no?
+
+72
+00:04:07,825 --> 00:04:11,523
+Papà Apocalisse è il criminale
+più feroce e crudele di Doomstone!
+
+73
+00:04:13,290 --> 00:04:17,654
+Non sei abbastanza dura, ti disintegrerà
+e si terrà i cristalli tutti per sé!
+
+74
+00:04:18,270 --> 00:04:21,825
+Ma non dovrebbe essere un problema
+per te e il tuo partner, no? Sembra <i>davvero</i> duro!
+
+75
+00:04:22,325 --> 00:04:22,867
+Duro?
+
+76
+00:04:23,412 --> 00:04:26,231
+Andiamo qui fuori, pulce.
+
+77
+00:04:26,371 --> 00:04:30,250
+Andiamo! Andiamo tutti qui fuori!
+
+78
+00:04:30,322 --> 00:04:36,304
+Andiamo a farci una bella passeggiata nel parco..
+tu e tutti i tuoi amici Peppe Pappamolla!
+
+79
+00:04:37,120 --> 00:04:40,343
+Il nome esatto è <i>Giuseppe</i> Pappamolla,
+grazie tante!
+
+80
+00:04:45,351 --> 00:04:46,785
+Sei completamente impazzito?
+
+81
+00:04:47,100 --> 00:04:49,060
+Ho detto malvagio, non aspirante suicida!
+
+82
+00:04:49,269 --> 00:04:52,397
+Ora dobbiamo solo trovare un modo
+per attraversare la città coi cristalli e...
+
+83
+00:04:52,999 --> 00:04:53,523
+Wander?
+
+84
+00:04:57,163 --> 00:04:58,236
+Salta su!
+
+85
+00:04:58,361 --> 00:04:58,820
+Cosa?!
+
+86
+00:04:59,154 --> 00:05:00,365
+Dove hai..?
+
+87
+00:05:00,367 --> 00:05:02,115
+Mi ha rubato la moto!
+
+88
+00:05:02,624 --> 00:05:05,070
+Hai rubato a tizi come <i>quelli</i>?
+
+89
+00:05:05,072 --> 00:05:07,078
+Già.. dovrei restituirla?
+
+90
+00:05:09,494 --> 00:05:12,709
+No! Vai, Wild Willy Wander! Vai!
+
+91
+00:05:19,152 --> 00:05:20,008
+Addosso!
+
+92
+00:05:28,794 --> 00:05:29,851
+Attento!
+
+93
+00:05:32,022 --> 00:05:33,438
+Ammira!
+
+94
+00:05:39,720 --> 00:05:42,697
+Camion pieno di esplosivi!
+
+95
+00:05:43,008 --> 00:05:43,990
+Buona idea!
+
+96
+00:05:53,042 --> 00:05:59,582
+QUANTO È BELLO ESSERE CATTIVI!!!
+
+97
+00:06:03,113 --> 00:06:05,178
+Brutto pazzo scatenato!
+
+98
+00:06:05,381 --> 00:06:06,846
+Tu.. tu..
+
+99
+00:06:09,792 --> 00:06:12,101
+..ci hai portati proprio a destinazione!
+
+100
+00:06:12,352 --> 00:06:14,106
+La villa di Papà Apocalisse!
+
+101
+00:06:14,354 --> 00:06:17,126
+Non male Wander, non male davvero!
+
+102
+00:06:17,378 --> 00:06:21,722
+Oh, "non male Wander", quindi dici che
+stavolta dovremmo chiedere gentilmente?
+
+103
+00:06:22,195 --> 00:06:26,199
+No, nonono! Ce l'abbiamo quasi fatta,
+non possiamo fare errori proprio ora!
+
+104
+00:06:26,199 --> 00:06:29,740
+Quindi non essere gentile! Però
+ecco, nemmeno pazzo scatenato!
+
+105
+00:06:32,539 --> 00:06:37,752
+Oh! E se lasciassi parlare me?
+E tu interpreti il duro misterioso.
+
+106
+00:06:37,961 --> 00:06:40,630
+Ok? Cattivo, ma silenzioso. Puoi farlo?
+
+107
+00:06:40,787 --> 00:06:41,923
+Se posso?!
+
+108
+00:06:54,192 --> 00:06:57,888
+Che razza di signore del crimine
+lascia la porta di casa aperta?
+
+109
+00:06:59,468 --> 00:07:03,695
+Quello che sa che nessuno
+sarebbe così stupido da entrare.
+
+110
+00:07:08,992 --> 00:07:12,287
+Si, uhm, si dice che hai
+del succo di orrble in vendita.
+
+111
+00:07:12,453 --> 00:07:18,303
+Io e il mio compare qui dobbiamo andarcene da questa topaia
+per continuare la nostra malvagia e sgradevole vita criminosa.
+
+112
+00:07:19,836 --> 00:07:21,254
+Ho un'idea migliore.
+
+113
+00:07:21,504 --> 00:07:28,413
+Mi prendo i soldi, non vi do neanche una goccia di succo e
+i miei amichetti qui vi transformano in cera per pavimenti!
+
+114
+00:07:37,770 --> 00:07:40,481
+Che problemi hai piccoletto?
+Non sei spaventato?
+
+115
+00:07:42,123 --> 00:07:42,901
+Aspetta!
+
+116
+00:07:43,067 --> 00:07:46,863
+Ho sentito parlare di questo tizio.
+È quello che ha tenuto testa a Dan il Selvaggio!
+
+117
+00:07:46,863 --> 00:07:48,674
+Che ha sfasciato le moto dei Motor Hogs!
+
+118
+00:07:48,998 --> 00:07:52,058
+Boss, questo è Wild Wooly Wander!
+
+119
+00:07:54,669 --> 00:07:56,247
+È vero?
+
+120
+00:08:01,741 --> 00:08:06,805
+Oh, le mie scuse! Non ne avevo idea!
+La prego, perdoni me e i miei colleghi
+
+121
+00:08:06,817 --> 00:08:11,721
+Lunker! Procura al nostro malvagio amico
+una bottiglia del nostro miglior succo di orrble!
+
+122
+00:08:23,683 --> 00:08:29,107
+Vedete? Siamo tutti malvagi ma ragionevoli!
+Noi abbiamo il succo e voi avete...
+
+123
+00:08:29,197 --> 00:08:30,531
+SACCO DI ROCCE?!?
+
+124
+00:08:34,046 --> 00:08:37,802
+Ho invertito i sacchetti!
+Così abbiamo il succo e anche i cristalli!
+
+125
+00:08:37,814 --> 00:08:39,332
+Ma quanto sono cattivo?
+
+126
+00:08:42,849 --> 00:08:44,170
+INSEGUITELI!!!
+
+127
+00:09:09,815 --> 00:09:11,781
+Fine dei giochi, palla di pelo.
+
+128
+00:09:18,913 --> 00:09:20,677
+Fatevi sotto, gente!
+
+129
+00:09:20,797 --> 00:09:22,667
+Sono Wild Wooly Wander!
+
+130
+00:09:22,667 --> 00:09:24,780
+Sono il più cattivo dei cattivi!
+
+131
+00:09:24,797 --> 00:09:27,547
+Avanti, posso affrontarvi tutti insieme!
+
+132
+00:09:33,825 --> 00:09:34,762
+STOP!!!!
+
+133
+00:09:38,641 --> 00:09:40,184
+È stato uno spasso!
+
+134
+00:09:40,435 --> 00:09:42,270
+Siete stati davvero sportivi.
+
+135
+00:09:45,667 --> 00:09:50,267
+Sentite, non siamo davvero cattivi.
+Fingevamo di esserlo per non farci notare!
+
+136
+00:09:50,387 --> 00:09:53,364
+Siamo solo dei viaggiatori
+sperduti in cerca di aiuto.
+
+137
+00:09:53,519 --> 00:09:56,659
+E ci dispiace un sacco per tutti
+i problemi che abbiamo causato.
+
+138
+00:09:56,669 --> 00:09:59,454
+Guardate nei vostri cuori, non volete aiutarci?
+
+139
+00:10:05,710 --> 00:10:06,961
+NO!!!
+
+140
+00:10:08,727 --> 00:10:10,659
+Non aiutiamo i forestieri!
+
+141
+00:10:10,935 --> 00:10:12,592
+E non abbiamo un cuore!
+
+142
+00:10:20,684 --> 00:10:22,226
+Beh, dovete colpirci o no?
+
+143
+00:10:30,774 --> 00:10:32,987
+Aspetta un secondo..
+
+144
+00:10:33,054 --> 00:10:35,364
+Siete un mucchio di impostori, vero?!
+
+145
+00:10:35,490 --> 00:10:36,908
+Proprio come Wander!
+
+146
+00:10:38,426 --> 00:10:39,974
+Oh, per tutti gli.. voi..
+
+147
+00:10:40,119 --> 00:10:41,871
+Oh, non posso crederci..
+
+148
+00:10:42,807 --> 00:10:44,916
+Sì, ci hai scoperti.
+
+149
+00:10:45,195 --> 00:10:47,151
+Non ho mai fatto del male a una mosca.
+
+150
+00:10:47,391 --> 00:10:52,507
+Avevo sentito che Doomstone era un posto da duri
+quindi ho fatto finta per sopravvivere...
+
+151
+00:10:52,882 --> 00:10:55,968
+Oh, è grandioso!
+Credevo di essere l'unico a far finta!
+
+152
+00:10:56,251 --> 00:10:56,969
+No!
+
+153
+00:10:59,552 --> 00:11:01,432
+Ragazzi, stavo solo fingendo.
+
+154
+00:11:01,432 --> 00:11:03,200
+Oh, anche io!
+
+155
+00:11:03,788 --> 00:11:05,807
+Oh, avevo così tanta paura di te!
+
+156
+00:11:05,807 --> 00:11:07,901
+Questo non è nemmeno un vero tatuaggio!
+
+157
+00:11:07,901 --> 00:11:09,607
+Ho voglia di una camomilla.
+
+158
+00:11:09,607 --> 00:11:12,148
+Odio le moto, sono così pericolose!
+
+159
+00:11:12,148 --> 00:11:13,861
+Stavo solo fingendo, piacere di conoscerti!
+
+160
+00:11:13,861 --> 00:11:15,446
+Mi manca il mio giardino.
+
+161
+00:11:16,823 --> 00:11:19,075
+Chi se lo sarebbe aspettato?
+
+162
+00:11:19,986 --> 00:11:23,718
+Sì, sì, avevi ragione...
+Dovevamo solo chiedere gentilmente!
+
+163
+00:11:36,659 --> 00:11:40,231
+Questo succo dovrebbe bastarvi per andare ovunque vogliate!
+
+164
+00:11:42,340 --> 00:11:44,267
+E una cosuccia per il viaggio!
+
+165
+00:11:48,618 --> 00:11:50,648
+Tornate a trovarci, mi raccomando!
+
+166
+00:11:50,821 --> 00:11:52,998
+Oh, grazie! Lo faremo di sicuro!
+
+167
+00:11:52,999 --> 00:11:55,093
+Eheheh, solletico!
+
+168
+00:11:58,054 --> 00:11:59,775
+Che simpatica combriccola!
+
+169
+00:11:59,787 --> 00:12:02,182
+Mah, un mucchio di mammolette,
+se devo dirla tutta.
+
