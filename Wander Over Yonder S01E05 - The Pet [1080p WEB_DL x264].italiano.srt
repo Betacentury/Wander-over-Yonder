@@ -795,7 +795,7 @@ La nave si autodistruggerà fra venti, diciannove, diciotto...
 
 193
 00:15:56,302 --> 00:15:59,500
-Uff, ci sto mettendo secoli. Va bene se accellero un po'?
+Uff, ci sto mettendo secoli. Va bene se accelero un po'?
 
 194
 00:15:59,501 --> 00:16:00,898
